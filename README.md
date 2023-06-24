@@ -10,7 +10,7 @@ This is a Python script for automating messed up folder by formatting and gatthe
 2. Clone this repository:
 
    ```shell
-   git clone https://github.com/AlirezaRafiyian/TelegramBot.git
+   git clone https://github.com/AlirezaRafiyian/automation.git
 
 I. Navigate to the project directory:
   cd your-repository
